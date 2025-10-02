@@ -5,6 +5,13 @@ It demonstrates a complete **end-to-end computer vision workflow** including **d
 
 ---
 
+
+![App Demo](./BrainTumorClassifier%20App.png)  
+![Healthy Example](./Healthy.png)  
+![Brain Tumor Example](./Brain%20Tumer.png)
+
+---
+
 ## **Project Overview**
 
 The workflow includes:  
